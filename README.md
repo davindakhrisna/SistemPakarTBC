@@ -9,6 +9,3 @@ Dengan pengalaman dalam pengembangan web dan pengetahuan mendalam dalam bahasa p
 
 Penggunaan Dalam XAMPP :
 buka htdocs > paste folder > nyalakan apache > tuliskan "localhost/namaFolderTadi"
-
-Preview Github Pages :
-https://davindakhrisna.github.io/SistemPakarTBC/
